@@ -1,0 +1,45 @@
+body {
+	background-image:url(../img/banner-bg.jpg);
+	background-size:cover;
+	background-position:center;
+}
+#contentsin {
+
+	/*background-image:url(../img/the-top-view-of-doctor-desktop-with-stethoscope-clipboard-with-medical-records-form-and-computer-laptop_1421-698.jpg);*/
+	height:663px;
+	width:35%;
+	margin-left:30%;
+	right:20%;
+	background:rgba(0,0,0,0.2);
+	
+	border-radius:3.5%;
+    color:white;
+    font-family:cambria;
+	font-weight:strong;
+	font-size:18px;
+}
+.reg-head {
+	color:#05769a;
+}
+
+.btn-sub {
+	background:none;
+	border:2px solid #05769c;
+	border-radius:8%;
+	color:#05769c;
+	width:150px;
+	height:30px;
+	
+}
+.btn-sub:hover {
+	background:rgba(0,0,0,0.5);
+	color:white;
+}
+.form-control{
+	width:250px;
+	height:32px;
+	border:none;
+	font-weight:strong;
+	font-size:13px;
+	background:#cfcccc85;
+}

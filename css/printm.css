@@ -1,0 +1,27 @@
+body
+{
+	
+	margin:0px;
+	width:100%;
+	background-color:lightblue;
+}
+.printbutton {
+	background-color:#00bfff; 
+	border:none;
+	color:white;
+	width:150px;
+	height:30px;
+	font-weight:bold;
+	font-size:17px;
+	text-decoration:none;
+}
+.hmbutton {
+	background-color:#00bfff; 
+	border:none;
+	color:white;
+	width:150px;
+	height:30px;
+	font-weight:bold;
+	font-size:17px;
+	text-decoration:none;
+}

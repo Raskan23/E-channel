@@ -1,0 +1,17 @@
+body
+{
+background-image:url(../img/catering.jpg);
+font-family:jokerman;
+}
+.button
+{
+	width:70px;
+	height:30px;
+	border-radius:15px;
+	background-image:url(../img/bg-time.png);
+	
+}
+.button:hover{
+	background-color:black;
+	color:white;
+}

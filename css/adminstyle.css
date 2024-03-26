@@ -1,0 +1,32 @@
+a:hover {
+	color: red
+}
+
+a:link {
+	text-decoration: none
+}
+
+a:visited {
+	color: navy
+}
+
+a:visited:hover {
+	color: red
+}
+th, td {
+	text-align:left;
+	padding:18px;
+}
+tr:ntc-child(odd) {
+	background-color:#f2f2f2;
+}
+
+.prof-tab {
+	font-family:cambria;
+	font-weight:strong;
+	font-size:18px;
+}
+.txt {
+	width:240px;
+	height:30px;
+}
